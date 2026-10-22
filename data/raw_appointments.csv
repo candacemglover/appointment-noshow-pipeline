@@ -1,0 +1,8 @@
+Appointment_ID,Patient_ID,Scheduled_Date,Appointment_Date,Department,No_Show
+101,P801,2026-10-01,2026-10-15,Cardiology,No
+102,P802,2026-10-01,2026-10-02,Pediatrics,No
+103,P803,2026-10-01,2026-10-25,Cardiology,Yes
+104,P804,2026-10-02,2026-10-03,Neurology,No
+105,P805,2026-10-02,2026-10-30,Pediatrics,Yes
+106,P806,2026-10-03,2026-10-05,Neurology,No
+107,P807,2026-10-03,2026-10-28,Cardiology,Yes
